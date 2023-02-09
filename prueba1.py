@@ -14,7 +14,7 @@ media()
 
 
 def listaRandom():
-    print(random.choice(["osito","trebol","bombon"]))
+    print(random.choice(["gominola","trebol","bombon"]))
     print(random.choice(range(14)))
     print(random.choice((14,24,19)))
 
