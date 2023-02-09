@@ -34,5 +34,3 @@ def numeroMayor():
 numeroMayor()
 
 
-def cuentaPares():
-    
